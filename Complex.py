@@ -1,11 +1,11 @@
-/*
+#
 You may modify or reproduce.
 Time: 11:56:17pm Sunday
 Date: 04-11-2018
 Email: mughalb9291@gmail.com
 Bugs and Criticisms are warmly welcome :) 
 (Improvements will be updated soon )
- */
+ #
 
 
 #! /usr/bin/python3 /usr/bin/python
